@@ -1,0 +1,154 @@
+{
+  "animatronics": {
+    "Fredbear": {
+      "enter_office": true,
+      "ignore_mask": false,
+      "jumpscare": "jumpscary\\Fredbear\\Fredbear jumpscare000000.png,jumpscary\\Fredbear\\Fredbear jumpscare000001.png,jumpscary\\Fredbear\\Fredbear jumpscare000002.png,jumpscary\\Fredbear\\Fredbear jumpscare000003.png,jumpscary\\Fredbear\\Fredbear jumpscare000004.png,jumpscary\\Fredbear\\Fredbear jumpscare000005.png,jumpscary\\Fredbear\\Fredbear jumpscare000006.png,jumpscary\\Fredbear\\Fredbear jumpscare000007.png,jumpscary\\Fredbear\\Fredbear jumpscare000008.png,jumpscary\\Fredbear\\Fredbear jumpscare000009.png,jumpscary\\Fredbear\\Fredbear jumpscare000010.png,jumpscary\\Fredbear\\Fredbear jumpscare000011.png,jumpscary\\Fredbear\\Fredbear jumpscare000012.png,jumpscary\\Fredbear\\Fredbear jumpscare000013.png,jumpscary\\Fredbear\\Fredbear jumpscare000014.png,jumpscary\\Fredbear\\Fredbear jumpscare000015.png,jumpscary\\Fredbear\\Fredbear jumpscare000016.png,jumpscary\\Fredbear\\Fredbear jumpscare000017.png,jumpscary\\Fredbear\\Fredbear jumpscare000018.png,jumpscary\\Fredbear\\Fredbear jumpscare000019.png,jumpscary\\Fredbear\\Fredbear jumpscare000020.png,jumpscary\\Fredbear\\Fredbear jumpscare000021.png,jumpscary\\Fredbear\\Fredbear jumpscare000022.png,jumpscary\\Fredbear\\Fredbear jumpscare000023.png,jumpscary\\Fredbear\\Fredbear jumpscare000024.png,jumpscary\\Fredbear\\Fredbear jumpscare000025.png,jumpscary\\Fredbear\\Fredbear jumpscare000026.png,jumpscary\\Fredbear\\Fredbear jumpscare000027.png,jumpscary\\Fredbear\\Fredbear jumpscare000028.png,jumpscary\\Fredbear\\Fredbear jumpscare000029.png,jumpscary\\Fredbear\\Fredbear jumpscare000030.png,jumpscary\\Fredbear\\Fredbear jumpscare000031.png,jumpscary\\Fredbear\\Fredbear jumpscare000032.png,jumpscary\\Fredbear\\Fredbear jumpscare000033.png,jumpscary\\Fredbear\\Fredbear jumpscare000034.png,jumpscary\\Fredbear\\Fredbear jumpscare000035.png",
+      "jumpscare_sound": "audio\\Fnaf 2 Jumpscare sound effect.mp3",
+      "night_1_AI": 7,
+      "night_2_AI": 8,
+      "night_3_AI": 0,
+      "night_4_AI": 0,
+      "night_5_AI": 0,
+      "night_6_AI": 0,
+      "path": "stage,main hallway,office hallway,office"
+    },
+    "Springbonnie": {
+      "enter_office": true,
+      "ignore_mask": false,
+      "jumpscare": "jumpscary\\Springbonnie\\Spirngbonnie jumpscare000000.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000001.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000002.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000003.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000004.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000005.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000006.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000007.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000008.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000009.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000010.png,jumpscary\\Springbonnie\\Spirngbonnie jumpscare000011.png",
+      "jumpscare_sound": "audio\\Fnaf 2 Jumpscare sound effect.mp3",
+      "night_1_AI": 5,
+      "night_2_AI": 6,
+      "night_3_AI": 0,
+      "night_4_AI": 0,
+      "night_5_AI": 0,
+      "night_6_AI": 0,
+      "path": "stage,main hallway,party room D,vent B,office"
+    },
+    "old Fredbear": {
+      "enter_office": true,
+      "ignore_mask": false,
+      "jumpscare": "jumpscary\\old Fredbear\\jao000000.png,jumpscary\\old Fredbear\\jao000001.png,jumpscary\\old Fredbear\\jao000002.png,jumpscary\\old Fredbear\\jao000003.png,jumpscary\\old Fredbear\\jao000004.png,jumpscary\\old Fredbear\\jao000005.png,jumpscary\\old Fredbear\\jao000006.png,jumpscary\\old Fredbear\\jao000007.png,jumpscary\\old Fredbear\\jao000008.png,jumpscary\\old Fredbear\\jao000009.png,jumpscary\\old Fredbear\\jao000010.png,jumpscary\\old Fredbear\\jao000011.png,jumpscary\\old Fredbear\\jao000012.png,jumpscary\\old Fredbear\\jao000013.png,jumpscary\\old Fredbear\\jao000014.png,jumpscary\\old Fredbear\\jao000015.png,jumpscary\\old Fredbear\\jao000016.png,jumpscary\\old Fredbear\\jao000017.png,jumpscary\\old Fredbear\\jao000018.png,jumpscary\\old Fredbear\\jao000019.png,jumpscary\\old Fredbear\\jao000020.png,jumpscary\\old Fredbear\\jao000021.png,jumpscary\\old Fredbear\\jao000022.png,jumpscary\\old Fredbear\\jao000034.png,jumpscary\\old Fredbear\\jao000035.png,jumpscary\\old Fredbear\\jao000036.png,jumpscary\\old Fredbear\\jao000037.png,jumpscary\\old Fredbear\\jao000038.png,jumpscary\\old Fredbear\\jao000039.png,jumpscary\\old Fredbear\\jao000040.png,jumpscary\\old Fredbear\\jao000041.png,jumpscary\\old Fredbear\\jao000042.png,jumpscary\\old Fredbear\\jao000043.png,jumpscary\\old Fredbear\\jao000044.png,jumpscary\\old Fredbear\\jao000045.png,jumpscary\\old Fredbear\\jao000046.png,jumpscary\\old Fredbear\\jao000047.png,jumpscary\\old Fredbear\\jao000048.png,jumpscary\\old Fredbear\\jao000049.png,jumpscary\\old Fredbear\\jao000050.png,jumpscary\\old Fredbear\\jao000051.png",
+      "jumpscare_sound": "audio\\Fnaf 2 Jumpscare sound effect.mp3",
+      "night_1_AI": 0,
+      "night_2_AI": 4,
+      "night_3_AI": 0,
+      "night_4_AI": 0,
+      "night_5_AI": 0,
+      "night_6_AI": 0,
+      "path": "PAS,vent A,Office"
+    },
+    "shadow BB": {
+      "enter_office": true,
+      "ignore_mask": false,
+      "night_1_AI": 0,
+      "night_2_AI": 7,
+      "night_3_AI": 0,
+      "night_4_AI": 0,
+      "night_5_AI": 0,
+      "night_6_AI": 0,
+      "path": "play room,office"
+    }
+  },
+  "cameras": {
+    "PAS": {
+      "button_position": [ 979, 469 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:old Fredbear": "cams\\old FB.png",
+        "default": "cams\\tod.png"
+      },
+      "programmable": false
+    },
+    "camera_map": [ "cams\\fnaf 2 map.png", 1058, 522 ],
+    "main hallway": {
+      "button_position": [ 1017, 477 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:Fredbear": "cams\\animatronics Fredbear.png",
+        "animatronics:Springbonnie": "cams\\s.png",
+        "default": "cams\\default 1.png"
+      },
+      "programmable": false
+    },
+    "office hallway": {
+      "button_position": [ 1016, 541 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:Fredbear": "cams\\sbc.png",
+        "default": "cams\\default 3.png"
+      },
+      "programmable": false
+    },
+    "party room D": {
+      "button_position": [ 964, 542 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:Springbonnie": "cams\\sb.png",
+        "default": "cams\\default 2.png"
+      },
+      "programmable": false
+    },
+    "play room": {
+      "button_position": [ 1099, 518 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:shadow BB": "cams\\shadow BB.png",
+        "default": "cams\\gagagagagagagagagagagagagvaga.png"
+      },
+      "programmable": false
+    },
+    "stage": {
+      "button_position": [ 1119, 453 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:Fredbear": "cams\\animatronics Fredbear 1.png",
+        "animatronics:Fredbear,Springbonnie": "cams\\animatronics Springbonnie Fredbear.png",
+        "animatronics:Springbonnie": "cams\\animatronics Springbonnie.png",
+        "default": "cams\\default.png"
+      },
+      "programmable": false
+    },
+    "vent A": {
+      "button_position": [ 1063, 577 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:old Fredbear": "cams\\FB FBA.png",
+        "default": "cams\\tord.png"
+      },
+      "programmable": false
+    },
+    "vent B": {
+      "button_position": [ 964, 592 ],
+      "button_sprite": "cams\\button.png",
+      "camera_states": {
+        "animatronics:Springbonnie": "cams\\sbcd.png",
+        "default": "cams\\default 4.png"
+      },
+      "programmable": false
+    }
+  },
+  "extras": [],
+  "office": {
+    "ambience": "audio\\FNAF 2 Ambience Extended.mp3",
+    "buttons": [],
+    "doors": [],
+    "mask": true,
+    "night_1_call": "audio\\phonecall night1.mp3",
+    "night_2_call": "audio\\phonecall night2.mp3",
+    "power": true,
+    "sprites": {
+      "animatronic:Fredbear": "office\\animatronic Fredbear.png",
+      "animatronic:Springbonnie": "office\\animatronic Springbonnie.png",
+      "animatronic:old Fredbear": "office\\FB FBAds.png",
+      "animatronic:shadow BB": "office\\shadow BB off.png",
+      "default": "office\\office.png"
+    }
+  },
+  "title_screen": {
+    "background": "title\\title.png",
+    "music": "audio\\FNAF 2 Main Menu Theme.mp3",
+    "newspapers": "title\\newspaper.png"
+  }
+}
